@@ -1,0 +1,95 @@
+0-indice
+ Copter Assembly Guide
+ Welcome and Inventory
+  Wire Breadboard
+  Wire Angle Sensor
+  Prepare Propeller Arm
+  Modify Assembly Box
+  Install Breadboard and Sensor
+  Attach Propeller Arm
+  Complete Wiring
+  Class Survey
+  Software Guide
+ Software Introduction
+  Getting Started
+  Arduino (All OS's)
+  Python Install (Windows)
+  Python Install (Mac)
+  Python Install (Nix)
+  How to Use the GUI
+  Introduction to Sequences and Difference Equations
+ Overview
+  Sequences
+  Linear Difference Equations (LDEs)
+  First-Order Homogeneous LDEs
+  Second-Order Homogeneous LDEs
+  Higher-Order Homogeneous LDEs
+  Crane Mutiny
+  Problem Set 1
+Problem_Set fecha límite 1 de feb. de 2016 06:00 CET  Este contenido es calificable
+  Lab 1
+Lab fecha límite 1 de feb. de 2016 06:00 CET  Este contenido es calificable
+  Week 2 - Proportional Control
+ Lecture 2
+Lecture 2 - PDF Handout
+ Problem Set 2
+Problem_Set fecha límite 1 de feb. de 2016 06:00 CET  Este contenido es calificable
+Difference Equation Practice I
+Difference Equation Practice II
+First Order Equations with Inputs and Natural Frequencies
+Feedback Systems
+Feedback Systems with Disturbances
+ Lab 2
+Lab fecha límite 1 de feb. de 2016 06:00 CET  Este contenido es calificable
+Lab 2 Introduction
+Lab 2 Software and Hardware
+Brief Tutorial
+The Experiment
+Lab Questions
+ Week 3 - PD Control
+ Lecture 3
+Summary
+Fan Controller
+The Crane Yet Again
+ Problem Set 3
+Problem_Set fecha límite 1 de feb. de 2016 06:00 CET  Este contenido es calificable
+Solving For Coefficients
+Natural Frequencies
+Natural Frequencies II
+Natural Frequencies III
+Helicopter Simulation I
+Helicopter Sim II
+Helicopter Sim III
+Helicopter Sim IV
+Helicopter Sim V (Extra)
+ Lab 3
+Lab fecha límite 1 de feb. de 2016 06:00 CET  Este contenido es calificable
+Background Copter Physics
+Background Proportional Control
+Background on PD Control
+Software Setup
+The Experiment
+Questions
+ Root Finder!
+Utility
+ Course Surveys
+ Entrance Survey
+Survey
+ Exit Survey
+Survey
+Herramientas del Curso
+ Actualizaciones
+ Marcadores
+Fechas importantes del curso
+Finalización del curso
+Hace 3 años - 2 de feb. de 2016
+
+Este curso ha sido archivado, lo que significa que puede revisar los contenidos, pero ya no es un curso activo.
+Hoy es 24 de abr. de 2019 02:26 CEST
+Materiales del curso
+Reference:Week One: Modeling with Linear Difference Equations (LDEs)
+
+Reference:Week Two: First-Order Systems and Proportional Control
+
+Reference:Week Three: Second-Order Systems and PSD (aka PID) Feedback
+
